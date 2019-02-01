@@ -1,0 +1,2 @@
+# EGINAZURE
+for azure site
